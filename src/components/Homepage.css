@@ -1,0 +1,25 @@
+.main-container{
+    display: flex;
+    flex-direction: row;
+    margin: 70px;
+    
+}
+.filter-container{
+    width: 20vw;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+   
+
+}
+.filter-container select{
+    border: 0;
+    height: 50px;
+    font-size: x-large;
+}
+.product-container{
+    width:80vw;
+    display: flex;
+    flex-wrap: wrap;
+    
+}

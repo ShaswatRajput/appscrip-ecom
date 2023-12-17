@@ -1,0 +1,38 @@
+nav {
+    display: flex;
+    border-bottom: 2px solid #f3f3f3;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+    z-index: 100;
+    margin-left: 2rem;
+  }
+  .dropdown{
+    border:0;
+  }
+  .nav-icons {
+    width: 1.5rem;
+    height: 1.5rem;
+    margin-left: 2rem;
+  }
+  .nav-container{
+    display: flex;
+    justify-content:center ;
+  }
+
+  .second-nav{
+    display: flex;
+    justify-content: center;
+    
+  }
+  ul{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    width: 40vw;
+    list-style: none;
+  }
+ .img-logo{
+    height: 50px;
+    width: 50px;
+ }
